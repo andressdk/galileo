@@ -1,0 +1,57 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    color: rgb(169, 202, 51);
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo del encabezado */
+header {
+    background-color: #00457c;
+    color: rgb(169, 202, 51);
+    text-align: center;
+    padding: 20px 0;
+}
+
+header img {
+    max-width: 150px;
+    margin: 10px 0;
+}
+
+/* Estilo del menú de navegación */
+nav {
+    background-color: #0069b4;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: rgb(169, 202, 51);
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+/* Estilo de las secciones */
+section {
+    padding: 20px;
+}
+
+.content-section {
+    margin-bottom: 30px;
+}
+
+/* Estilo del pie de página */
+footer {
+    background-color: #00457c;
+    color: rgb(169, 202, 51);
+    text-align: center;
+    padding: 10px;
+}
+
+/* Estilos de la sección de contacto */
+.contact-info p {
+    margin: 10px 0;
+}
